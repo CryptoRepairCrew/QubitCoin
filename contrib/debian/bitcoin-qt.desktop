@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Bitcoin
-Comment=Bitcoin P2P Cryptocurrency
-Comment[fr]=Bitcoin, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Bitcoin, eşten eşe kriptografik sanal para birimi
-Exec=/usr/bin/bitcoin-qt %u
+Name=QubitCoin
+Comment=QubitCoin P2P Cryptocurrency
+Comment[fr]=QubitCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=QuibtCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/qubitcoin-qt
 Terminal=false
 Type=Application
 Icon=/usr/share/pixmaps/bitcoin128.png
