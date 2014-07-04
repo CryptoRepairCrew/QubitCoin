@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.5"
+   height="16.5"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="toolbar.svg"
+   inkscape:export-filename="/home/gjh/Projects/Coinage/aa-Workbench/QubitCoin-dev/src/qt/res/icons/toolbar.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.82"
+     inkscape:cx="17.468212"
+     inkscape:cy="7.2075426"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="976"
+     inkscape:window-height="464"
+     inkscape:window-x="258"
+     inkscape:window-y="99"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer"
+     style="display:inline"
+     transform="translate(-222.60402,-431.30276)">
+    <g
+       id="g3818"
+       transform="matrix(0.04777763,0,0,0.04777718,211.9685,426.41949)">
+      <path
+         transform="matrix(1.5462935,0,0,1.5462935,-196.19929,-155.01581)"
+         d="M 456.33804,285.46078 C 456.33804,332.13274 418.50294,369.96783 371.83099,369.96783 325.15904,369.96783 287.32395,332.13274 287.32395,285.46078 287.32395,238.78883 325.15904,200.95374 371.83099,200.95374 418.50294,200.95374 456.33804,238.78883 456.33804,285.46078 z"
+         sodipodi:ry="84.507042"
+         sodipodi:rx="84.507042"
+         sodipodi:cy="285.46078"
+         sodipodi:cx="371.83099"
+         id="path2997"
+         style="fill:none;stroke:#b00000;stroke-width:32.94394684;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="caaccczzc"
+         inkscape:connector-curvature="0"
+         id="path3768"
+         d="M 532.03186,411.55392 C 532.03186,411.55392 464.61698,340.18198 426.05634,310.10866 418.40414,304.14074 410.5106,297.98069 401.40845,294.6157 393.44601,291.67204 384.70438,290.77922 376.21588,290.88406 361.60828,291.78142 346.81482,295.24211 335.77012,303.4223 321.25015,314.01639 306.03825,324.18663 308.13539,367.15933 311.9672,392.29021 327.68418,401.07457 337.70293,410.38866 347.72168,419.70275 395.23871,417.83938 415.45901,412.73891 435.67931,407.63844 461.39067,387.04625 461.39067,387.04625"
+         style="fill:none;stroke:#b00000;stroke-width:50.94100189;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
